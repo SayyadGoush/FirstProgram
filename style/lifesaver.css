@@ -42,11 +42,11 @@
 	}
 	#courses li a{
 		text-decoration: none;
-		color: lightblue;
+		color: red;
 	}
 	#courses li:HOVER{
-		background: orange;
-		color: white;
+		background: rgb(73, 182, 0);
+		color: black;
 		text-transform:uppercase;
 	}
 	
